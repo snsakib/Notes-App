@@ -1,5 +1,5 @@
 # notes
-This is a basic note taking app build with nodeJS.
+This is a basic CLI based note taking app build with Node.js.
 I build this app for a course project while I was learning about nodeJS from [Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/)
 
 ## Installation Steps:
